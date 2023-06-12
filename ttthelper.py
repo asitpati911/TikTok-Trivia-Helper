@@ -1,5 +1,5 @@
-import bs4
-import cv2
+import beautifulsoup4
+import opencv-python
 import concurrent.futures
 from datetime import datetime
 import json
