@@ -1,4 +1,4 @@
-import beautifulsoup4
+import bs4
 import cv2
 import concurrent.futures
 from datetime import datetime
