@@ -13,7 +13,7 @@ multidict
 numpy
 openai
 opencv-python
-operating-systems
+os
 packaging
 Pillow
 PyAutoGUI
